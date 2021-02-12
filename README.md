@@ -1,24 +1,42 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+# Blog-App
 
-* Ruby version
+This project is part from Microverse program, designed to learn to learn the basics of Ruby on Rails creating a Blog App where you can create Articles and comments, update, edit and destroy them.
 
-* System dependencies
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
 
-* Database initialization
+- Ruby on Rails
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Live Demo
 
-* Deployment instructions
+[Live Demo Link]()
 
-* ...
+**See the page via the link above**
+
+
+
+## Authors
+
+👤 **Kenechukwu Oguagbaka**
+
+- GitHub: [@github]()
+- Twitter: [@twitter]()
+- LinkedIn: [LinkedIn]()
+
+
+👤 **Alan Solis**
+
+- GitHub: [@github](https://github.com/warblo001)
+- Twitter: [@twitter](https://twitter.com/Alan55572391)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alan-solis)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
