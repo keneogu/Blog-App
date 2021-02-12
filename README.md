@@ -26,9 +26,10 @@ This project is part from Microverse program, designed to learn to learn the bas
 
 👤 **Kenechukwu Oguagbaka**
 
-- GitHub: [@github]()
-- Twitter: [@twitter]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@keneogu](https://github.com/keneogu)
+- Twitter: [@keneogu](https://twitter.com/keneogu)
+- LinkedIn: [@keneogu](https://www.linkedin.com/in/kene-ogu)
+
 
 
 👤 **Alan Solis**
