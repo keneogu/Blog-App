@@ -16,7 +16,7 @@ This project is part from Microverse program, designed to learn to learn the bas
 
 ## Live Demo
 
-[Live Demo Link](https://https://secure-tor-04868.herokuapp.com/)
+[Live Demo Link](https://secure-tor-04868.herokuapp.com/)
 
 **See the page via the link above**
 
